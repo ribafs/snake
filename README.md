@@ -2,6 +2,8 @@
 
 Game snake with js
 
+![](snake.png)
+
 Original em - https://github.com/Kamau-ke/How-to-buid-snake-game-with-javaScript
 Tutorial:
 
